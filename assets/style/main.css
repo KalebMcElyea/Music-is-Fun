@@ -5,6 +5,35 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+.iTunesImg{
+  background: #9f1cff rgb(45, 178, 255) !important;
+  box-shadow: 2px 2px 6px rgb(204, 40, 204)!important;
+}
+
+.iTunes{
+  color:#20f8f8;
+  text-shadow: 2px 2px 6px rgb(204, 40, 204)!important;
+}
+
+ .newCard{
+    background-color: rgba(0, 0, 0, 0.52) !important;
+ }
+.body-img{
+  background-image: url('https://papers.co/wallpaper/papers.co-sf98-ipad-itunes-rainbow-el-capitan-gradation-blur-29-wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.albumPic{
+  width: 50vh;
+  height: 45vh;
+}
+
+.albumShadow{
+  box-shadow: 2px 2px 6px rgb(228, 29, 228)!important;
+}
+
+
 :root {
   --blue: blue;
   --indigo: indigo;
